@@ -1,0 +1,18 @@
+.user-table__update-link {
+  text-decoration: none;
+  color: #000;
+  transition: 0.5s;
+}
+
+.user-table__update-link:hover {
+  color: #238e23;
+}
+
+.user-table__delete-btn {
+  transition: 0.5s;
+}
+
+.user-table__delete-btn:hover {
+  cursor: pointer;
+  color: #f00;
+}
